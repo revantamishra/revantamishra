@@ -2,9 +2,10 @@
   <img
     src="027ddd80-8d52-4cce-b8b9-8c7b359602d8.png"
     alt="Revanta — AI Systems Safety & Verification"
-    width="900"
+    width="580"
   />
 </p>
+
 
 <h1 align="center">Revanta Mishra</h1>
 
