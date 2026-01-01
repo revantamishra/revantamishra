@@ -2,7 +2,7 @@
   <img
     src="027ddd80-8d52-4cce-b8b9-8c7b359602d8.png"
     alt="Revanta — AI Systems Safety & Verification"
-    width="580"
+    width="400"
   />
 </p>
 
