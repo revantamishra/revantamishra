@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="banner.png"
+    src="banner.PNG"
     alt="Revanta Mishra — AI Researcher, Control Systems"
     width="650"
   />
