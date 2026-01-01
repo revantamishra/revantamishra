@@ -8,9 +8,7 @@
 
 <h1 align="center">Revanta Mishra</h1>
 
-<p align="center">
-  <strong>AI Researcher · Control Systems</strong>
-</p>
+
 
 <p align="center">
   Research-driven design of formal control, verification, and execution constraints for AI systems.
